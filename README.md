@@ -1,0 +1,1 @@
+# Fairstore-Satisfaction-Client
